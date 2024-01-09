@@ -6398,10 +6398,10 @@ react-native-mail@^6.1.1:
   resolved "https://registry.npmjs.org/react-native-mail/-/react-native-mail-6.1.1.tgz#f1b1f8034c84d2510a93e4a2a795f0db5a13595e"
   integrity sha512-pTs180wwyh7hN/iyTC9SfOX579U4YhDlHOLxi47IGvhPJENqO/QFdBq+wWKxyhNqdQuVSy+LoeIxLreWnIeYmg==
 
-react-native-mmkv@^2.6.3:
-  version "2.6.3"
-  resolved "https://registry.npmjs.org/react-native-mmkv/-/react-native-mmkv-2.6.3.tgz#6bfd1b3dd4b264c86e68adbaa9692f3388af2b5d"
-  integrity sha512-CkLAU5EX18eDw0Q+h6qEXPvynb+NVDu54cOY3h4h9VUhaaflfAmGWBJRQCBQz5M0VdnS8utjgJNryTAWKUTqpw==
+react-native-mmkv@^2.11.0:
+  version "2.11.0"
+  resolved "https://registry.yarnpkg.com/react-native-mmkv/-/react-native-mmkv-2.11.0.tgz#51b9985f6a5c09fe9c16d8c1861cc2901856ace1"
+  integrity sha512-28PdUHjZJmAw3q+8zJDAAdohnZMpDC7WgRUJxACOMkcmJeqS3u5cKS/lSq2bhf1CvaeIiHYHUWiyatUjMRCDQQ==
 
 react-native-permissions@^3.6.1:
   version "3.6.1"
