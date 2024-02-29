@@ -3,22 +3,22 @@
 ## Tech Stack
 2lambda123/Alock is built on the following main stack:
 
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- [Swift](https://developer.apple.com/swift/) – Languages
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Swift](https://developer.apple.com/swift/) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
+- [MobX](https://github.com/mobxjs/mobx) – State Management Library
+- [MobX-State-Tree](https://mobx-state-tree.js.org/intro/welcome) – State Management Library
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [React Native](http://facebook.github.io/) – Cross-Platform Mobile Development
 - [Babel](http://babeljs.io/) – JavaScript Compilers
 - [ESLint](http://eslint.org/) – Code Review
-- [i18next](https://www.i18next.com/) – Translation Service
-- [MobX](https://github.com/mobxjs/mobx) – State Management Library
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Prettier](https://prettier.io/) – Code Review
-- [MobX-State-Tree](https://mobx-state-tree.js.org/intro/welcome) – State Management Library
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -28,22 +28,22 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/Alock is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/5302/17475736.png' alt='MobX'/> [MobX](https://github.com/mobxjs/mobx) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/9129/default_c85dc717f6faf8f246f92d33fca5399a349b294f.png' alt='MobX-State-Tree'/> [MobX-State-Tree](https://mobx-state-tree.js.org/intro/welcome) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/2699/KoK6gHzp.jpg' alt='React Native'/> [React Native](http://facebook.github.io/) – Cross-Platform Mobile Development
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/5302/17475736.png' alt='MobX'/> [MobX](https://github.com/mobxjs/mobx) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/9129/default_c85dc717f6faf8f246f92d33fca5399a349b294f.png' alt='MobX-State-Tree'/> [MobX-State-Tree](https://mobx-state-tree.js.org/intro/welcome) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -54,7 +54,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/Alock](https://github.com/2lambda123/Alock)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|33<br/>Tools used|01/09/24 <br/>Report generated|
+|33<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
